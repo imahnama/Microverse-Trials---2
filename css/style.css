@@ -4,7 +4,7 @@
 }
 
 #title{
-    font-size: 30px;
+    font-size: 40px;
     text-align: center;
     font-family: Georgia;
     font-style: bold;
@@ -12,6 +12,18 @@
 }
 p{
     text-align: center;
+    font-size: 25px;
 
 
+}
+
+#img-div{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+#img-caption{
+    font-size: 25px;
 }
