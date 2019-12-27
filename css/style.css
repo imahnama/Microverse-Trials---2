@@ -10,20 +10,38 @@
     font-style: bold;
     padding-top: 20px;
 }
-p{
+#main p{
     text-align: center;
     font-size: 25px;
-
-
 }
 
 #img-div{
     margin-left: auto;
+    width: 600px;
     margin-right: auto;
     text-align: center;
-    
+
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 #img-caption{
     font-size: 25px;
+}
+
+#tribute-info{
+    text-align: center;
+}
+
+ul li{
+    font-size: 20px;
+}
+
+#quote{
+    font-style: italic;
+    font-size: 2px;
 }
